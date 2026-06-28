@@ -1,0 +1,9 @@
+  Identification des projets ├á restaurer...
+  Tous les projets sont ├á jour pour la restauration.
+  GestionUsine -> C:\Users\DELL\source\repos\GestionUsine_RECUP_HEAD\bin\Debug\net10.0-windows\GestionUsine.dll
+
+La g├®n├®ration a r├®ussi.
+    0 Avertissement(s)
+    0 Erreur(s)
+
+Temps ├®coul├® 00:00:07.98
